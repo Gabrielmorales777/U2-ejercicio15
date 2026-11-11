@@ -8,3 +8,6 @@ La clase `Paquete` almacena el código, destino y estado actual de cada encomien
 Se simula el envío de un mensaje masivo desde el centro logístico para modificar el estado de las encomiendas a "En Tránsito", mostrando los resultados por consola.
 
 El objetivo es practicar la **comunicación entre objetos**, las asociaciones, el uso de colecciones (`List`), los métodos de actualización y la difusión de mensajes entre múltiples objetos.
+
+
+![Ejercicio 15](U2%20ejercicio15.png)
